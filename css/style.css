@@ -65,6 +65,15 @@
            
        }
 
+       .main-Imgs {
+           display: flex;
+           background-image: url("assets/images/home/Background-Earth.png");
+       }
+
+       .main-Imgs div {
+           
+       }
+
        .hotel-footer{
            background-color: #C4C4C4;
            height: 300px;
@@ -76,5 +85,8 @@
            padding-top: 250px;
        }
 
+       body {
+        background-image: url("assets/images/home/Background-Earth.png");
+       }
        
 
